@@ -19,7 +19,7 @@ This project uses [Forismatic API](http://forismatic.com/en/api/) for generating
 ### Usage
 
 ```
-git clone https://github.com/van100j/pomodoro-clock.git
+git clone https://github.com/van100j/random-quote-machine.git
 cd random-quote-machine/
 npm install
 npm start
